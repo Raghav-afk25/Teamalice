@@ -13,7 +13,7 @@ psutil
 py-tgcalls==1.2.9
 ntgcalls==1.1.2
 pykeyboard
-git+https://github.com/KurimuzonAkuma/pyrogram@dev
+git+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 python-dotenv
 pyyaml
 requests
@@ -22,5 +22,6 @@ spotipy
 tgcrypto
 unidecode
 yt-dlp
+uvloop
 youtube-search
 youtube-search-python
