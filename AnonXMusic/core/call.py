@@ -11,7 +11,6 @@ from pytgcalls.exceptions import (
 )
 from ntgcalls import TelegramServerError
 from pytgcalls.types import Update
-from pytgcalls.types import MediaStream
 from pytgcalls.types import (
     AudioQuality, 
     VideoQuality,
